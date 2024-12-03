@@ -1,4 +1,4 @@
-** #Welcome to LTDanTaylor's HOME! **
+** Welcome to LTDanTaylor's HOME! **
 
   ***Documentation***
 
