@@ -13,5 +13,3 @@
 >* I will have to GET GOOD with github to satisfy Redux Owner and Server Managers*
 >(What does the parenthesis do?)
 ## LET'S FIND OUT!
-
-{% hintstyle="success" %}
