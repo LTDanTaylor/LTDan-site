@@ -1,3 +1,7 @@
-** Welcome to LTDanTaylor's HOME **
+** #Welcome to LTDanTaylor's HOME! **
 
-  *Get Fucked nerd*
+  ***Documentation***
+
+  Welcome to LTDanTaylor's home! Be Nice to me or ***#GET THE FUCK OUT***:
+   
+  
