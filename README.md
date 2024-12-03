@@ -1,7 +1,7 @@
-** Welcome to LTDanTaylor's HOME! **
+## Welcome to LTDanTaylor's HOME!
 
-  ***Documentation***
+  ## ***Documentation***
 
-  Welcome to LTDanTaylor's home! Be Nice to me or ***#GET THE FUCK OUT***
+  *Welcome to LTDanTaylor's home!* Be Nice to me or ***#GET THE FUCK OUT***
    
   
